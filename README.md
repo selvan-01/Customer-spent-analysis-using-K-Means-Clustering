@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="thumbnail39.png" width="800">
+</p>
+
+---
+
 # 📊 Customer Spend Analysis using K-Means Clustering
 
 An interactive Data Science project that segments customers based on their **Income** and **Spending behavior** using the **K-Means Clustering algorithm**. This project helps businesses understand customer groups and make better marketing decisions.
